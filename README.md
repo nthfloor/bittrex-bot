@@ -1,0 +1,2 @@
+# bittrexbot
+Crypto Currency trader

@@ -1,0 +1,25 @@
+{
+  "name": "bittrexbot",
+  "version": "1.0.0",
+  "description": "Bittrex trader bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nthfloor/bittrexbot.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "cryptocurrency",
+    "trader",
+    "bot"
+  ],
+  "author": "Nathan Floor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nthfloor/bittrexbot/issues"
+  },
+  "homepage": "https://github.com/nthfloor/bittrexbot#readme"
+}
